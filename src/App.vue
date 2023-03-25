@@ -5,7 +5,7 @@ import home from "./components/Contador.vue";
 </script>
 
 <template>
-hola
+    chau
 <home/>
 </template>
 
